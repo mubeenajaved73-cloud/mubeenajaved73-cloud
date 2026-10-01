@@ -58,8 +58,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: mubeenajaved73@gmail.com
-- 🔗 LinkedIn: [Add your link here](https://www.linkedin.com/)
-- 📈 Kaggle: [Add your link here](https://www.kaggle.com/)
+
 
 ---
 
