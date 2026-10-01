@@ -1,4 +1,9 @@
 # Hi, I'm Mubeena Javed 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Aspiring+Software+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+</p>
 
 ### Software Engineering Student | Software Developer | AI/ML Enthusiast
 
